@@ -3,7 +3,7 @@ Power Bi Dashboard Project Objective To develop a comprehensive credit card week
 
 **Creating the Power BI Dashboard and Insights: **
 
-#Insights:
+##Insights:
 -Overall Revenue: $55M
 -Total Interest: $7.8M
 Total Transaction Amount: $45M
