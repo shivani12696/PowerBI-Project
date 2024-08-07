@@ -9,4 +9,4 @@ __Insights__ :
 * Highest performing salesman: Parker ($750K worth units sold)
 * Central region is the highest performing region ($1.4 M worth units sold)
 * Maximum Units sold in April month. ($0.64 M worth units sold)
-* This project has significantly enhanced our ability to monitor credit card performance, providing valuable insights that drive strategic decisions.
+* This project has significantly enhanced our ability to monitor sales performance, providing valuable insights that drive strategic decisions.
