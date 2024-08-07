@@ -3,7 +3,6 @@ Power Bi Dashboard Project Objective To develop a comprehensive Ice cream sales 
 
 __Insights__ : 
 
-* Insights:
 * Overall Sales made: $3.25M
 * Total units sold: $2M
 * Highest performing salesman: Parker ($750K worth units sold)
