@@ -12,4 +12,4 @@ Creating the Power BI Dashboard and Insights:
 * TX, NY, and CA contribute 68% of the revenue.
 * Overall Activation Rate: 50.75%
 * Overall Delinquency Rate: 5%
-* This project has significantly enhanced our ability to monitor credit card performance, providing valuable insights that drive strategic decisions.
+This project has significantly enhanced our ability to monitor credit card performance, providing valuable insights that drive strategic decisions.
