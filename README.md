@@ -3,9 +3,9 @@ Power Bi Dashboard Project Objective To develop a comprehensive credit card week
 
 **Creating the Power BI Dashboard and Insights: **
 
-##Insights:
--Overall Revenue: $55M
--Total Interest: $7.8M
+Insights:
+Overall Revenue: $55M
+Total Interest: $7.8M
 Total Transaction Amount: $45M
 Male customers contribute more to revenue compared to female customers.
 Blue and Silver credit cards contribute 52%, making them the most used cards.
