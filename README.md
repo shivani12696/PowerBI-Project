@@ -1,15 +1,12 @@
 # PowerBI-Project
-Power Bi Dashboard Project Objective To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+Power Bi Dashboard Project Objective To develop a comprehensive Ice cream sales dashboard that provides insights into key performance metrics and trends, enabling stakeholders to monitor and analyze operations effectively.
 
-__Creating the Power BI Dashboard and Insights__ : 
+__Insights__ : 
 
 * Insights:
-* Overall Revenue: $55M
-* Total Interest: $7.8M
-* Total Transaction Amount: $45M
-* Male customers contribute more to revenue compared to female customers.
-* Blue and Silver credit cards contribute 52%, making them the most used cards.
-* TX, NY, and CA contribute 68% of the revenue.
-* Overall Activation Rate: 50.75%
-* Overall Delinquency Rate: 5%
+* Overall Sales made: $3.25M
+* Total units sold: $2M
+* Highest performing salesman: Parker ($750K worth units sold)
+* Central region is the highest performing region ($1.4 M worth units sold)
+* Maximum Units sold in April month. ($0.64 M worth units sold)
 * This project has significantly enhanced our ability to monitor credit card performance, providing valuable insights that drive strategic decisions.
